@@ -11,6 +11,10 @@ This repository contains a curated list of papers on **graph transfer learning**
 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| Graph Domain Adaptation via Theory-Grounded Spectral Regularization | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=OysfLgrk8mk) | [[Code]](https://github.com/Shen-Lab/GDA-SpecReg) |
+| Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=1tHAZRqftM) | [[Code]](https://github.com/jumxglhf/ParetoGNN) |
+| Graph-Relational Domain Adaptation | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=kcwyXtt7yDJ) | [[Code]](https://github.com/Wang-ML-Lab/GRDA) | 
+| Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach | _IJCNN 2022_ | [[PDF]](https://arxiv.org/pdf/2201.03326.pdf) | [[Code]](https://github.com/DavideBuffelli/SAME) |
 | Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution | _TKDE 2022_ | [[PDF]](https://arxiv.org/pdf/1909.01541.pdf) | [[Code]](https://github.com/daiquanyu/AdaGCN_TKDE) |
 | Adaptive Transfer Learning on Graph Neural Networks | _KDD 2021_ | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467450) | N/A |
 | Transfer Learning of Graph Neural Networks with Ego-graph Information Maximization | _NIPS 2021_ | [[PDF]](https://proceedings.neurips.cc/paper/2021/file/0dd6049f5fa537d41753be6d37859430-Paper.pdf) | [[Code]](https://github.com/GentleZhu/EGI) | 
@@ -25,5 +29,7 @@ This repository contains a curated list of papers on **graph transfer learning**
 | --------------- | :--------: | :--------: | :--------: | 
 | Graph Transfer Learning | _Arxiv 2023_ | [[PDF]](https://par.nsf.gov/servlets/purl/10313472) | N/A |
 | NodeTrans: A Graph Transfer Learning Approach for Traffic Prediction | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2207.01301.pdf) | N/A |
+| Graph Domain Adaptation: A Generative View | _Arxiv 2021_ | [[PDF]](https://arxiv.org/pdf/2106.07482.pdf) | [[Code]](https://github.com/rynewu224/GraphDA) |
+
 
 
