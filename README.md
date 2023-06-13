@@ -11,6 +11,7 @@ This repository contains a curated list of papers on **graph transfer learning**
 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability | _KDD 2023_ | [[PDF]](http://shichuan.org/doc/150.pdf) | [[Code]](https://github.com/BUPT-GAMMA/AAGOD) |
 | Graph Domain Adaptation via Theory-Grounded Spectral Regularization | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=OysfLgrk8mk) | [[Code]](https://github.com/Shen-Lab/GDA-SpecReg) |
 | Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=1tHAZRqftM) | [[Code]](https://github.com/jumxglhf/ParetoGNN) |
 | Graph-Relational Domain Adaptation | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=kcwyXtt7yDJ) | [[Code]](https://github.com/Wang-ML-Lab/GRDA) | 
