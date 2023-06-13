@@ -28,6 +28,7 @@ This repository contains a curated list of papers on **graph transfer learning**
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | Graph Transfer Learning | _Arxiv 2023_ | [[PDF]](https://par.nsf.gov/servlets/purl/10313472) | N/A |
+| Finding Diverse and Predictable Subgraphs for Graph Domain Generalization | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2206.09345.pdf) | N/A |
 | NodeTrans: A Graph Transfer Learning Approach for Traffic Prediction | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2207.01301.pdf) | N/A |
 | Graph Domain Adaptation: A Generative View | _Arxiv 2021_ | [[PDF]](https://arxiv.org/pdf/2106.07482.pdf) | [[Code]](https://github.com/rynewu224/GraphDA) |
 
