@@ -16,7 +16,7 @@ This repository contains a curated list of papers on **graph transfer learning**
 | Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=1tHAZRqftM) | [[Code]](https://github.com/jumxglhf/ParetoGNN) |
 | Graph-Relational Domain Adaptation | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=kcwyXtt7yDJ) | [[Code]](https://github.com/Wang-ML-Lab/GRDA) | 
 | Cross-Domain Graph Anomaly Detection via Anomaly-aware Contrastive Alignment | _AAAI 2023_ | [[PDF]](https://arxiv.org/pdf/2212.01096.pdf) | [[Code]](https://github.com/QZ-WANG/ACT) |
-| Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach | _IJCNN 2022_ | [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9892010) | [[Code]](https://github.com/DavideBuffelli/SAME) |
+| Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach | _IJCNN 2022_ | [[PDF]](https://ieeexplore.ieee.org/document/9892010) | [[Code]](https://github.com/DavideBuffelli/SAME) |
 | Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution | _TKDE 2022_ | [[PDF]](https://arxiv.org/pdf/1909.01541.pdf) | [[Code]](https://github.com/daiquanyu/AdaGCN_TKDE) |
 | Cross-Domain Graph Anomaly Detection | _TNNLS 2022_ | [[PDF]](http://www.ece.virginia.edu/~jl6qk/paper/TNNLS21_Anomaly.pdf) | N/A |
 | Adaptive Transfer Learning on Graph Neural Networks | _KDD 2021_ | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467450) | N/A |
