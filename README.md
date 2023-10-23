@@ -11,6 +11,7 @@ This repository contains a curated list of papers on **graph transfer learning**
 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| Unified Pretraining for Recommendation via Task Hypergraphs | _WSDM 2024_ | [[PDF]](https://arxiv.org/pdf/2310.13286.pdf) | [[Code]](https://github.com/mdyfrank/UPRTH) | 
 | A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability | _KDD 2023_ | [[PDF]](http://shichuan.org/doc/150.pdf) | [[Code]](https://github.com/BUPT-GAMMA/AAGOD) |
 | Graph Domain Adaptation via Theory-Grounded Spectral Regularization | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=OysfLgrk8mk) | [[Code]](https://github.com/Shen-Lab/GDA-SpecReg) |
 | Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=1tHAZRqftM) | [[Code]](https://github.com/jumxglhf/ParetoGNN) |
@@ -32,6 +33,7 @@ This repository contains a curated list of papers on **graph transfer learning**
 **Pre-print Papers:**
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning | _Arxiv 2023_ | [[PDF]](https://arxiv.org/abs/2310.07365) | N/A | 
 | Graph Transfer Learning | _Arxiv 2023_ | [[PDF]](https://par.nsf.gov/servlets/purl/10313472) | N/A |
 | Finding Diverse and Predictable Subgraphs for Graph Domain Generalization | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2206.09345.pdf) | N/A |
 | NodeTrans: A Graph Transfer Learning Approach for Traffic Prediction | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2207.01301.pdf) | N/A |
